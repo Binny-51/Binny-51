@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Naman Agrawal
 
-<!--
-**Binny-51/Binny-51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a student at the **Indian Institute of Technology, Bhubaneswar**.
 
-Here are some ideas to get you started:
+## 💡 Interests
+My interests lie in the intersection of **Machine Learning, Computer Vision, and Formal Verification in Artificial Intelligence**.  
+I enjoy building intelligent systems that are both powerful and reliable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Interests
+- 🤖 Machine Learning & Deep Learning  
+- 🧠 Computer Vision & Generative Models  
+- 🔍 Formal Methods & Model Checking  
+- 📊 Reinforcement Learning  
+- 💻 Python | C++ | C | Matlab  
+- 🧰 PyTorch | TensorFlow | Scikit-Learn | OpenCV  
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)][(https://www.linkedin.com/in/naman-agrawal-468b112a5/)]
+
+Thanks for visiting! 🚀
