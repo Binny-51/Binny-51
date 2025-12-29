@@ -15,6 +15,7 @@ I enjoy building intelligent systems that are both powerful and reliable.
 - 🧰 PyTorch | TensorFlow | Scikit-Learn | OpenCV  
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)][(https://www.linkedin.com/in/naman-agrawal-468b112a5/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naman-agrawal-468b112a5/)
 
 Thanks for visiting! 🚀
+
